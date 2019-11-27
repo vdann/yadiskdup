@@ -1,8 +1,7 @@
 # yadiskdup
 Поиск дубликатов на Яндекс.Диске
-
-
-
+  
+  
 # Project setup
 ```
 npm install
@@ -28,7 +27,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 # Ссылки
-https://github.com/Kolyaj/yandex-disk - Клиент для Яндекс.Диска на NodeJS
+Клиент для Яндекс.Диска на NodeJS  
+https://github.com/Kolyaj/yandex-disk
 
 YaDisk - это библиотека-клиент REST API Яндекс.Диска  
 https://pypi.org/project/yadisk/  
