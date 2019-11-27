@@ -27,6 +27,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 # Ссылки
+API Диска  
+https://yandex.ru/dev/disk/  
+https://yandex.ru/dev/disk/poligon/
+
 Клиент для Яндекс.Диска на NodeJS  
 https://github.com/Kolyaj/yandex-disk
 
